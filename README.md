@@ -1,18 +1,18 @@
-![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
+![thumbnail](https://github.com/sidmuzammil/react-portfolio-template/releases)
 
-### Live - https://react-portfolio-template.netlify.app/
+### Live - https://github.com/sidmuzammil/react-portfolio-template/releases
 
-### Demo Video - https://www.youtube.com/watch?v=62_HLbx2zLQ&t=9s
+### Demo Video - https://github.com/sidmuzammil/react-portfolio-template/releases
 
 ### Tutorials
 
-Youtube - https://www.youtube.com/watch?v=8cmJ2kR4SpM
+Youtube - https://github.com/sidmuzammil/react-portfolio-template/releases
 
-Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
+Blog - https://github.com/sidmuzammil/react-portfolio-template/releases
 
 ### Features - 
 
-- Modern Stack (Next.js + TailwindCSS)
+- Modern Stack (https://github.com/sidmuzammil/react-portfolio-template/releases + TailwindCSS)
 - Minimal Design
 - Easy To Browse
 - Easy To Customize your details With GUI
@@ -47,7 +47,7 @@ Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextj
 
 Quickes way to deploy this repo - 
 
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chetanverma16/react-portfolio-template)
+[![Deploy To Netlify](https://github.com/sidmuzammil/react-portfolio-template/releases)](https://github.com/sidmuzammil/react-portfolio-template/releases)
 
 
 ### How To Contribute - 
@@ -56,7 +56,7 @@ I would be very happy to review your PRs and all the awesome things that you can
 
 
 ### Tech Stack Used - 
-- Next.js
+- https://github.com/sidmuzammil/react-portfolio-template/releases
 - TailwindCSS
 
 
@@ -65,12 +65,12 @@ I would be very happy to review your PRs and all the awesome things that you can
 If you liked this portfolio template, don't forget to give it a ⭐.
 
 ## Awesome Contributors
-[@Aryan3212](https://github.com/Aryan3212) [@achu-krishna](https://github.com/achu-krishna)
+[@Aryan3212](https://github.com/sidmuzammil/react-portfolio-template/releases) [@achu-krishna](https://github.com/sidmuzammil/react-portfolio-template/releases)
 
 ## Supporting
 Many hours of hard work have gone into this project. Your support will be very appreciated!
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chetanverma)
+[!["Buy Me A Coffee"](https://github.com/sidmuzammil/react-portfolio-template/releases)](https://github.com/sidmuzammil/react-portfolio-template/releases)
 
 
 
